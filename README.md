@@ -71,4 +71,4 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 ## Contact
 For questions or feedback, feel free to reach out:
 - GitHub: [@khaleedelg](https://github.com/your-khaleedelg)
-- Email: your-elgargatikhalid@gmail.com
+- Email: elgargatikhalid@gmail.com
